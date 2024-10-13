@@ -1,0 +1,22 @@
+{
+  "type": "kubejs:iron_ore_small",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "lakes": false,
+      "features": false,
+      "biome": "kubejs:void",
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "kubejs:iron_ore_small",
+          "height": 126
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

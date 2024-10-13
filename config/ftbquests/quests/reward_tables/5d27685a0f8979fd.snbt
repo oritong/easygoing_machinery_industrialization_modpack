@@ -1,0 +1,161 @@
+{
+	id: "5D27685A0F8979FD"
+	loot_size: 10
+	order_index: 2
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:basic_pace"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:big_eater"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:mountain_climber"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:nutritional_supplements"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:deep_breaths"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:serene"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:turf_runner"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:adv_low_health_buff"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:low_health_buff"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:low_health_heal"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:dig_speed"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:steel_will"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:dirt_runner"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:adv_low_health_heal"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:cooldown"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:snow_runner"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:skill_book"
+				tag: {
+					skill: "umapyoi:heart_and_soul"
+				}
+			}
+		}
+	]
+	title: "技能书"
+}

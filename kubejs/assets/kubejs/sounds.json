@@ -1,0 +1,10 @@
+{
+    "music.take": {
+        "sounds": [
+            {
+                "name": "kubejs:take",
+                "stream": true
+            }
+        ]
+    }
+}

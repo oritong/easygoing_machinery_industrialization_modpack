@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gt"
+	group: "2BA0D1DAEF47F308"
+	id: "31BF4A85394D14C2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "第二章 密勒顿也干了"
+}

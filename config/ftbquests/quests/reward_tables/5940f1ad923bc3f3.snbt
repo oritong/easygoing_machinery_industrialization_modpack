@@ -1,0 +1,151 @@
+{
+	id: "5940F1AD923BC3F3"
+	loot_size: 10
+	order_index: 1
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:ssr_agnus_tachyon"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:speed_master_card"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:guts_master_card"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:ssr_fine_motion"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:ssr_g_rudolf"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:ssr_kitasan_black"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:ssr_ks_miracle"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:ssr_oguri_cap"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:ssr_super_creek"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:wisdom_master_card"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:strength_master_card"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:stamina_master_card"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:support_card"
+				tag: {
+					maxDamage: 0
+					ranking: "ssr"
+					support_card: "umapyoi:ssr_w_mejiro_ramonu"
+				}
+			}
+		}
+	]
+	title: "支援卡"
+}

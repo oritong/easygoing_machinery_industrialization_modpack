@@ -1,0 +1,2408 @@
+{
+	id: "08B735509A6B0EEB"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:cheval_grand"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						10
+						0
+						10
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:copano_rickey"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						0
+						10
+						0
+						20
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:fujimasa_march"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						6
+						6
+						6
+						6
+						6
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:little_cocon"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						10
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:haru_urara"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						0
+						10
+						20
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:matikanetannhauser"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						0
+						10
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:mayano_top_gun"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						0
+						10
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:agnus_tachyon"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						0
+						0
+						10
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:daitaku_helios"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						15
+						0
+						15
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:durandal"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						20
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:el_condor_pasa"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						0
+						0
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:fine_motion"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						0
+						15
+						0
+						15
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:kawakami_princess"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						10
+						0
+						20
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:kitasan_black"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						10
+						0
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:gold_ship"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						10
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:grass_wonder"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						0
+						10
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:manhattan_cafe"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						30
+						0
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:hishi_miracle"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						7
+						8
+						7
+						8
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:admire_vega"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						20
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:calstone_light_o"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						15
+						0
+						15
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:curren_chan"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						20
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:aston_machan"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						0
+						0
+						10
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:daiwa_scarlet"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						0
+						20
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:gold_city"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						0
+						10
+						20
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:daiichi_ruby"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						0
+						20
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:fuji_kiseki"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						0
+						20
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:king_halo"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						0
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:matikanefukukitaru"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						10
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:hokko_tarumae"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						10
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:meisho_dotou"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						0
+						10
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:silence_suzuka"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						0
+						0
+						10
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:oguri_cap"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						0
+						10
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:verxina"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						0
+						10
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:win_variation"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						0
+						20
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:taiki_shuttle"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						0
+						0
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:sweep_tosho"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						20
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:vodka"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						20
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:tamamo_cross"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						10
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:sakura_bakushin_o"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						0
+						0
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:symboli_rudolf"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						0
+						10
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:tokai_teio"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						10
+						0
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:sakura_chiyono_o"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						0
+						10
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:mihono_bourbon"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						10
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:seiun_sky"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						10
+						0
+						0
+						20
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:sakura_laurel"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						10
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:mr_cb"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						10
+						0
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:narita_top_road"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						10
+						0
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:tm_opera_o"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						0
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:transcend"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						10
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:vivlos"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						10
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:satono_diamond"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						15
+						0
+						0
+						15
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:twinturbo"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						30
+						0
+						0
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:special_week"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						0
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:narita_taishin"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						0
+						20
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:mejiro_mcqueen"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						20
+						0
+						0
+						10
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:mejiro_ardan"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						0
+						0
+						0
+						20
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:neo_universe"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						0
+						0
+						0
+						30
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:mejiro_palmer"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						10
+						10
+						0
+						10
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:rice_shower"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						0
+						10
+						0
+						20
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "umapyoi:uma_soul"
+				tag: {
+					actionPoint: 200
+					extraProperty: [I;
+						5
+						6
+						5
+						0
+					]
+					maxProperty: [I;
+						18
+						18
+						18
+						18
+						18
+					]
+					name: "umapyoi:smart_falcon"
+					property: [I;
+						1
+						1
+						1
+						1
+						1
+					]
+					propertyRate: [I;
+						20
+						0
+						10
+						0
+						0
+					]
+					ranking: "sr"
+					resultRanking: 1
+					skills: ["umapyoi:basic_pace"]
+				}
+			}
+		}
+	]
+	title: "马娘之魂"
+}

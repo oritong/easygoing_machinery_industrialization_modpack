@@ -1,0 +1,10 @@
+ItemEvents.tooltip( e => {
+    e.add('kubejs:he_li_c_o_pt_er_ingot', '§eHeLiCOPtEr')
+    e.add('kubejs:he_li_c_o_pt_er_dust', '§eHeLiCOPtEr')
+    e.add('kubejs:he_li_c_o_pt_er_nugget', '§eHeLiCOPtEr')
+    e.add('kubejs:he_li_c_o_pt_er_plate', '§eHeLiCOPtEr')
+    e.add('thrown:kzzyc', '§c这是一个空指针，你抛出了它，但是……代价呢？')
+    e.add('palworld:black', Text.translate('tt.black'))
+    e.add('palworld:white', Text.translate('tt.white'))
+    e.add('youkaishomecoming:reimu_hairband', Text.translate('tt.reimuhb'))
+})

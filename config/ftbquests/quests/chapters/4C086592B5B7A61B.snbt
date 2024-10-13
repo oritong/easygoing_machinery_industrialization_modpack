@@ -1,0 +1,49 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4C086592B5B7A61B"
+	group: "1C06B71C17689034"
+	id: "4C086592B5B7A61B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "40FE0F447896697C"
+			secret: true
+			tasks: [{
+				id: "61AA8533E90B302F"
+				item: "farmersdelight:cutting_board"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			id: "4BB23CC8C803439E"
+			tasks: [{
+				id: "2470D167C806EA17"
+				title: "也许你喜欢饺子……？"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			id: "6F479EB23B7F6223"
+			rewards: [{
+				count: 16
+				id: "55099CB1C5694845"
+				item: "dumplings_delight:pork_potato_boiled_dumpling"
+				type: "item"
+			}]
+			tasks: [{
+				id: "216AF1BD7A402286"
+				item: "gtceu:cupronickel_credit"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+	]
+	title: "自动售货机"
+}

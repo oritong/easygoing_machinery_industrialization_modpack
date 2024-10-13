@@ -1,0 +1,170 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2C64A2746447F7E0"
+	group: ""
+	id: "2C64A2746447F7E0"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"与<rainb>一起火锅</rainb>半不兼容，具体表现为<rainb>无尽贪婪</rainb>大部分贴图消失"
+				"与<rainb>现代化UI</rainb>半不兼容，具体表现为文字动画消失"
+				"与<rainb>现代工业化</rainb>完全不兼容，能运行算你运气好"
+				"与<rainb>机械动力</rainb>完全不兼容，兼容方法请自行搜索"
+			]
+			icon: "avaritia:endest_pearl"
+			id: "514AADA3CD3D6CCD"
+			subtitle: "<wiggle>鬼知道为什么"
+			title: "不兼容MOD"
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"公元2110年1月1日"
+				"距离地球能源完全枯竭"
+				"还有三千六百五十天"
+				"为了解决人能源危机"
+				"人类制造了&m<rainb>*数据删除*&r机器人"
+				"和宇宙能源探索飞船&m<rainb>*数据删除*&r号"
+				"去寻找传说中"
+				"神秘精灵看守的无尽能源"
+				"{@pagebreak}"
+				"<rainb><wave><wave><wave><wave>但这跟你一点关系都没有"
+				""
+				"你只是一个赛马娘"
+				"由于受到了三女神的委托"
+				"而来到了盘古刚开辟的这片世界"
+				"你的目的则是"
+				"&c&m毁 灭 无 尽 能 源&r"
+				"让人类不得不跟三女神谈判"
+				"最后全成为马娘的⭐💢"
+			]
+			icon: "avaritia:infinity_catalyst"
+			id: "7B08263984A4F13D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					icon: {
+						Count: 1
+						id: "umapyoi:ssr_uma_ticket"
+						tag: { }
+					}
+					id: "52E93380280E85D5"
+					table_id: 628029293345836779L
+					title: "<rainb>3☆马娘自选券"
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0B819A0A72672700"
+					table_id: 6431405995670094835L
+					title: "<rainb>SSR支援卡自选券"
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5879CC611ED30B0A"
+					table_id: 6431405995670094835L
+					title: "<rainb>SSR支援卡自选券"
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "045A21A79ADAB48B"
+					table_id: 6431405995670094835L
+					title: "<rainb>SSR支援卡自选券"
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32DEFA8F1F8A7DBB"
+					table_id: 6431405995670094835L
+					title: "<rainb>SSR支援卡自选券"
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "66D4876AE1B6E3F0"
+					table_id: 6431405995670094835L
+					title: "<rainb>SSR支援卡自选券"
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "309877B8A4B0B9FE"
+					table_id: 6431405995670094835L
+					title: "<rainb>SSR支援卡自选券"
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3647232854CD2751"
+					table_id: 6431405995670094835L
+					title: "<rainb>SSR支援卡自选券"
+					type: "choice"
+				}
+				{
+					id: "09039FBA8BEE984A"
+					item: "umapyoi:skill_learning_table"
+					type: "item"
+				}
+				{
+					id: "046378C8CCC0392D"
+					item: "umapyoi:register_lectern"
+					type: "item"
+				}
+				{
+					id: "5F019D46A5D87827"
+					item: "umapyoi:training_facility"
+					type: "item"
+				}
+				{
+					id: "352E236E8ECBAA34"
+					table_id: 6712448505636026877L
+					title: "<rainb>随机技能二十连抽"
+					type: "random"
+				}
+			]
+			subtitle: "<rainb>看不看都没用"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "ftbquests:block/barrier"
+					}
+				}
+				id: "634477C7B125AAB7"
+				title: "来到陌生的大地上……"
+				type: "dimension"
+			}]
+			title: "背景故事"
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			description: ["无尽能源有6个，在工业发展中删掉5个"]
+			id: "440B6482962B503B"
+			title: "记事本"
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"<rainb>PrizOwO</rainb>（部分代码，部分模组）"
+				"<rainb>37°余烬</rainb>（部分贴图）"
+				"<rainb>柒月</rainb>（部分代码）"
+			]
+			id: "71F6F59C193BC846"
+			subtitle: "排名不分先后"
+			title: "特别感谢"
+			x: 4.0d
+			y: -3.5d
+		}
+	]
+	title: "前言"
+}

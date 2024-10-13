@@ -1,0 +1,33 @@
+{
+    "key": "jewel",
+    "translation": "miapi.material.crystal.jewel",
+    "icon": {
+        "type": "item",
+        "item": "umapyoi:jewel"
+    },
+    "groups": [
+        "crystal",
+        "gem"
+    ],
+    "hardness": 5.8,
+    "density": 3.2,
+    "flexibility": 0.25,
+    "durability": 1720,
+    "armor_durability_offset": -832,
+    "mining_speed": 7.8,
+    "mining_level": 3,
+    "enchantability": 12,
+    "color": "49EAD6",
+    "color_palette": {
+        "type": "image_generated_item",
+        "item": "umapyoi:jewel"
+    },
+    "items": [
+        {
+            "item": "umapyoi:jewel",
+            "value": 1.0
+        }
+    ],
+    "type": "mod_loaded",
+	"mod": "umapyoi"
+}
