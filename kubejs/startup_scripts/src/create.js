@@ -49,10 +49,11 @@ StartupEvents.registry("item", e => {
 })
 
 StartupEvents.registry('block', e => {
-	e.create('enchanting_apparatus', 'basic').defaultTranslucent().renderType('cutout')
 	e.create('iron_ore_small').material('stone').tagBoth('forge:ores').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_stone_tool")
 	e.create('copper_ore_small').material('stone').tagBoth('forge:ores').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_stone_tool")
 	e.create('tin_ore_small').material('stone').tagBoth('forge:ores').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_stone_tool")
+	
+	e.create('basic_portal_frame').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_stone_tool").defaultCutout()
 })
 
 StartupEvents.registry("fluid", (event) => {
