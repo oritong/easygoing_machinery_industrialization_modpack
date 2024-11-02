@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "gt"
 	group: "2BA0D1DAEF47F308"
+	icon: "kubejs:miraidon"
 	id: "31BF4A85394D14C2"
 	order_index: 1
 	quest_links: [ ]

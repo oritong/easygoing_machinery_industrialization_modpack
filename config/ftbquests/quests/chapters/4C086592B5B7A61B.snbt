@@ -28,22 +28,6 @@
 			x: -7.5d
 			y: -2.0d
 		}
-		{
-			id: "6F479EB23B7F6223"
-			rewards: [{
-				count: 16
-				id: "55099CB1C5694845"
-				item: "dumplings_delight:pork_potato_boiled_dumpling"
-				type: "item"
-			}]
-			tasks: [{
-				id: "216AF1BD7A402286"
-				item: "gtceu:cupronickel_credit"
-				type: "item"
-			}]
-			x: -9.0d
-			y: -4.0d
-		}
 	]
 	title: "自动售货机"
 }

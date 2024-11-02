@@ -1,0 +1,22 @@
+{
+  "type": "kubejs:redstone_ore",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "lakes": false,
+      "features": false,
+      "biome": "kubejs:void",
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "oritong:redstone_ore",
+          "height": 126
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

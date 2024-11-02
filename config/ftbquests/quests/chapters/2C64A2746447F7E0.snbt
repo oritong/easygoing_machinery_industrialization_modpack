@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "2C64A2746447F7E0"
 	group: ""
+	icon: "terramity:angel_feather"
 	id: "2C64A2746447F7E0"
 	order_index: 0
 	quest_links: [ ]
@@ -158,6 +159,8 @@
 				"<rainb>PrizOwO</rainb>（部分代码，部分模组）"
 				"<rainb>37°余烬</rainb>（部分贴图）"
 				"<rainb>柒月</rainb>（部分代码）"
+				"<rainb>xX流浪者Xx</rainb>（部分代码）"
+				"<rainb>废物蟹蟹</rainb>（部分贴图）"
 			]
 			id: "71F6F59C193BC846"
 			subtitle: "排名不分先后"

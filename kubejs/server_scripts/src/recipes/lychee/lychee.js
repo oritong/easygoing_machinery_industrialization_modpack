@@ -6,8 +6,8 @@ ServerEvents.recipes(e => {
           {
             "type": "explode",
             "fire": true,
-            "block_interaction": "destroy",
-            "radius": 5
+            "block_interaction": "keep",
+            "radius": 10
           }
         ],
         "item_in": [

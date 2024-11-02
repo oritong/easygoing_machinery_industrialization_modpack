@@ -1,7 +1,8 @@
 {
-    "probejs.modHash": -291857817273229902,
-    "probejs.registryHash": 1496161163271205263,
+    "probejs.modHash": -927170548258788481,
+    "probejs.registryHash": 2292572930327256,
     "probejs.interactive": true,
     "probejs.interactivePort": 7796,
-    "probejs.enabled": true
+    "probejs.enabled": true,
+    "probejs.isolatedScope": true
 }

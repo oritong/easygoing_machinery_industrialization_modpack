@@ -49,37 +49,20 @@ StartupEvents.registry("item", e => {
 })
 
 StartupEvents.registry('block', e => {
-	e.create('iron_ore_small').material('stone').tagBoth('forge:ores').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_stone_tool")
-	e.create('copper_ore_small').material('stone').tagBoth('forge:ores').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_stone_tool")
-	e.create('tin_ore_small').material('stone').tagBoth('forge:ores').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_stone_tool")
-	
-	e.create('basic_portal_frame').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_stone_tool").defaultCutout()
+	e.create('fire_clay_bricks').material('stone').requiresTool(true).tagBlock("minecraft:mineable/pickaxe").tagBlock("minecraft:needs_stone_tool")
 })
-
-StartupEvents.registry("fluid", (event) => {
-	// ModID声明如果选择不更改ModID(默认即"kubejs")直接把ModID这个变量取消
-	const MODID = "craetemetallurgy:"
-	// 路径常量
-	const PATH = "block/fluid/"
-	
-	/* 
-	* 定义流体
-	* 在添加下一种流体时要记得在[]后加上逗号
-	* 并且一定要严格按照格式进行
-	* [流体id, 颜色]
-	*/
-	let fluidRegisters = [
-		["molten_andesite_alloy", 0xc2c2c2],
-	]
-	fluidRegisters.forEach(([name, color]) => {
-		event.create(MODID + name) // 声明id
-			.thickTexture(color) // 流体颜色
-			.bucketColor(color) // 桶内流体颜色
-			.noBlock()
-	})
-})
-
-
+/*
+以下为 MaterialJS 支持的值（Minecraft 1.19.4）：
+"grass" | "spore_blossom" | "dripstone" | "slime" | "berry_bush" | "ice" | "gilded_blackstone" | "small_amethyst_bud" | "amethyst_cluster" | "mud" 
+| "amethyst" | "dragon_egg" | "packed_mud" | "crop" | "anvil" | "dirt" | "nether_sprouts" | "powder_snow" | "air" | "pointed_dripstone" | "muddy_mangrove_roots" 
+| "lava" | "chain" | "sculk_sensor" | "leaves" | "clay" | "netherrack" | "medium_amethyst_bud" | "basalt" | "portal" | "mud_bricks" | "soul_soil" 
+| "mangrove_roots" | "big_dripleaf" | "sculk_catalyst" | "bone" | "vine" | "web" | "polished_deepslate" | "coral" | "weeping_vines" | "plant" 
+| "sculk_shrieker" | "large_amethyst_bud" | "explosive" | "copper" | "roots" | "ancient_debris" | "netherite" | "snow" | "moss_carpet" | "sculk_vein" 
+| "stone" | "sculk" | "glow_lichen" | "hanging_roots" | "cake" | "nether_wart" | MaterialJS | "froglight" | "honey" | "small_dripleaf" | "kelp" | "nether_ore" 
+| "sand" | "frogspawn" | "water" | "glass" | "azalea_leaves" | "tuff" | "metal" | "rooted_dirt" | "soul_sand" | "moss" | "deepslate" | "cave_vines" | "twisting_vines" 
+| "deepslate_bricks" | "nylium" | "vegetable" | "azalea" | "scaffolding" | "flowering_azalea" | "sponge" | "lodestone" | "nether_bricks" | "lantern" | "candle" 
+| "sea_grass" | "calcite" | "wart_block" | "nether_gold_ore" | "bamboo_sapling" | "wool" | "deepslate_tiles" | "bamboo" | "shroomlight" | "wood" | "hard_crop"
+*/
 StartupEvents.registry("sound_event", (event) => {
     event.create("music.take")
 })

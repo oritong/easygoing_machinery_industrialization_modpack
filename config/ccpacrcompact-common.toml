@@ -7,7 +7,7 @@
 #[portal RGB color] -> [R, G, B]. R/G/B is empty or can not be convert to Integer, R/G/B = 127.
 #[Light portal type], [portal RGB color]  can be Empty list([]) but can not be not any thing.
 #
-"Dimension Configs" = [[["minecraft:overworld", "kubejs:iron_ore_small", "minecraft:iron_block", "1"], ["Item", "minecraft:iron_ingot"], ["172", "53", "0"]]]
+"Dimension Configs" = [[["minecraft:overworld", "kubejs:coal_ore", "oritong:coal_bpf", "1.0"], ["Item", "mekanism:dust_coal"], ["45", "61", "101"]], [["minecraft:overworld", "kubejs:copper_ore", "oritong:copper_bpf", "1.0"], ["Item", "gregtech:copper_dust"], ["45", "61", "101"]], [["minecraft:overworld", "kubejs:iron_ore", "oritong:iron_bpf", "1.0"], ["Item", "gregtech:iron_dust"], ["45", "61", "101"]], [["minecraft:overworld", "kubejs:tin_ore", "oritong:tin_bpf", "1.0"], ["Item", "gregtech:tin_dust"], ["45", "61", "101"]], [["minecraft:overworld", "kubejs:silver_ore", "oritong:silver_bpf", "1.0"], ["Item", "gregtech:silver_dust"], ["45", "61", "101"]], [["minecraft:overworld", "kubejs:gold_ore", "oritong:gold_bpf", "1.0"], ["Item", "gregtech:gold_dust"], ["45", "61", "101"]], [["minecraft:overworld", "kubejs:lapis_ore", "oritong:lapis_bpf", "1.0"], ["Item", "mekanism:dust_lapis_lazuli"], ["45", "61", "101"]], [["minecraft:overworld", "kubejs:redstone_ore", "oritong:redstone_bpf", "1.0"], ["Item", "kubejs:neutron_redstone_dust"], ["45", "61", "101"]]]
 #Whether to use the Custom Portal API Vanilla teleport entity method.
 #If this set to 'true', the diffPara of Dimension config wll be invalid.(Default=false).
 #

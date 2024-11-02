@@ -1,0 +1,22 @@
+{
+  "type": "kubejs:silver_ore",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "lakes": false,
+      "features": false,
+      "biome": "kubejs:void",
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "oritong:silver_ore",
+          "height": 126
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

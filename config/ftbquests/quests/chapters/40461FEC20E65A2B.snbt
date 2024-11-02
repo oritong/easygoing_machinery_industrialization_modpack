@@ -3,6 +3,13 @@
 	default_quest_shape: ""
 	filename: "40461FEC20E65A2B"
 	group: "2BA0D1DAEF47F308"
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "mekanism:liquid/steam"
+		}
+	}
 	id: "40461FEC20E65A2B"
 	order_index: 0
 	quest_links: [ ]
@@ -16,6 +23,7 @@
 				"这玩意可能有点慢，但是待久布"
 				"因为后面有更慢的"
 			]
+			icon: "avaritia:neutron_collector"
 			id: "3D326C741018977C"
 			rewards: [{
 				count: 4
@@ -29,8 +37,8 @@
 				type: "checkmark"
 			}]
 			title: "哥们你谁？"
-			x: -3.0d
-			y: 2.5d
+			x: 1.5d
+			y: 2.12d
 		}
 		{
 			description: ["要开始了呦~"]
@@ -47,13 +55,14 @@
 				}
 				type: "item"
 			}]
+			shape: "diamond"
 			subtitle: "拍击按钮以加入游戏"
 			tasks: [{
 				id: "18C52063C570A97E"
 				type: "checkmark"
 			}]
 			title: "欢迎来到GT的世界"
-			x: -4.5d
+			x: 0.0d
 			y: 0.0d
 		}
 		{
@@ -65,12 +74,23 @@
 				"也是你初期&e唯一&r圆石的来源！"
 			]
 			id: "14BA83FFEE5CC14D"
-			rewards: [{
-				count: 2048
-				id: "799B6D4B7F4209B7"
-				item: "minecraft:bamboo"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2333
+					id: "799B6D4B7F4209B7"
+					item: "minecraft:bamboo"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "303C308F48E9DD6F"
+					tags: [
+						"dialogue"
+						"10010001"
+					]
+					type: "custom"
+				}
+			]
 			subtitle: "好了，现在我知道谁的食子最多了"
 			tasks: [{
 				id: "7A069BAED589E32A"
@@ -78,7 +98,7 @@
 				type: "item"
 			}]
 			title: "如何开局？"
-			x: -1.5d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -192,6 +212,7 @@
 				""
 				"う~~~~~~~~~た"
 			]
+			icon: "minecraft:bamboo_planks"
 			id: "1FB9C3FF4770A4E8"
 			rewards: [
 				{
@@ -224,7 +245,7 @@
 				}
 			]
 			title: "竹"
-			x: 1.5d
+			x: 6.0d
 			y: 0.0d
 		}
 		{
@@ -232,80 +253,332 @@
 				"14BA83FFEE5CC14D"
 				"1FB9C3FF4770A4E8"
 			]
-			description: ["在工作台中把九个食子放在一块，然后就会变成一个圆石了！"]
+			description: [""]
 			id: "52C89CC8B22D1A67"
-			subtitle: "九九归一"
-			tasks: [{
-				id: "39CA03E5E5814D5C"
-				item: "minecraft:cobblestone"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 2.5d
+			rewards: [
+				{
+					count: 2
+					id: "54EE3772D3974F7A"
+					item: "minecraft:water_bucket"
+					type: "item"
+				}
+				{
+					id: "4DB866CEA781AA86"
+					item: {
+						Count: 1
+						id: "mekanism:atomic_disassembler"
+						tag: {
+							mekData: {
+								EnergyContainers: [{
+									Container: 0b
+									stored: "1000000"
+								}]
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "6F9EFA332B0BD6CB"
+					item: {
+						Count: 1
+						id: "kubejs:flint_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71231FC12A1951F1"
+					item: {
+						Count: 1
+						id: "kubejs:stone_hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 2.12d
 		}
 		{
 			dependencies: ["52C89CC8B22D1A67"]
-			description: ["手持炎石，右键圆石就能把炎石变成燧石"]
+			description: [""]
 			id: "2C8C8D4ECC21A385"
-			subtitle: "摩擦"
-			tasks: [{
-				id: "79A2B98DB410F3EE"
-				item: "minecraft:flint"
-				type: "item"
-			}]
-			x: 3.0d
-			y: 2.5d
+			tasks: [
+				{
+					id: "36DAD166971E0297"
+					item: "minecraft:gravel"
+					type: "item"
+				}
+				{
+					id: "45C25C7670C7933A"
+					item: "minecraft:sand"
+					type: "item"
+				}
+				{
+					id: "457941D9EFD273CD"
+					item: "minecraft:clay"
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 2.12d
 		}
 		{
 			dependencies: ["3D326C741018977C"]
 			id: "535AF65DB238A928"
-			tasks: [{
-				id: "62841A488E41AF00"
-				item: "avaritia:neutron_pile"
-				type: "item"
-			}]
-			x: -4.5d
-			y: 5.0d
+			x: 0.0d
+			y: 4.24d
 		}
 		{
-			dependencies: ["42484B3780A95EB1"]
+			dependencies: ["52C89CC8B22D1A67"]
 			id: "4BDADF56319EA144"
 			tasks: [{
 				id: "6754DAD98215CBB6"
 				item: "minecraft:scaffolding"
 				type: "item"
 			}]
-			x: 1.5d
-			y: 5.0d
+			x: 6.0d
+			y: 4.24d
 		}
 		{
 			dependencies: ["2C8C8D4ECC21A385"]
 			id: "42484B3780A95EB1"
 			tasks: [{
-				id: "078EB3B831B1AEEC"
-				item: {
-					Count: 1
-					id: "gtceu:flint_axe"
-					tag: {
-						DisallowContainerItem: 0b
-						GT.Behaviours: {
-							DisableShields: 1b
-							TreeFelling: 1b
-						}
-						GT.Tool: {
-							Damage: 0
-							Enchantability: 5
-							HarvestLevel: 2
-							MaxDamage: 63
-							ToolSpeed: 3.5f
-						}
-						HideFlags: 2
-					}
-				}
+				id: "18E6A7BD5D496278"
+				item: "minecraft:brick"
 				type: "item"
 			}]
+			x: 9.0d
+			y: 4.24d
+		}
+		{
+			dependencies: [
+				"4BDADF56319EA144"
+				"3D326C741018977C"
+			]
+			icon: "oritong:basic_portal_frame"
+			id: "073F9C95365A074B"
+			tasks: [{
+				icon: "oritong:basic_portal_frame"
+				id: "63D13EEBED4B225C"
+				observe_type: 0
+				timer: 0L
+				title: "观察：基础传送门框架"
+				to_observe: "oritong:basic_portal_frame"
+				type: "observation"
+			}]
+			title: "看看你的传送门"
+			x: 3.0d
+			y: 4.24d
+		}
+		{
+			dependencies: ["42484B3780A95EB1"]
+			id: "297AE19D6CCB6A6E"
+			rewards: [{
+				id: "20608F1B66B6AE69"
+				item: "kubejs:peko_hammer"
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5EA5AE1182883A1E"
+				type: "checkmark"
+			}]
+			x: 10.5d
+			y: 2.12d
+		}
+		{
+			dependencies: [
+				"535AF65DB238A928"
+				"073F9C95365A074B"
+			]
+			id: "232D3E9EB66C762E"
+			tasks: [{
+				dimension: "kubejs:coal_ore"
+				id: "29CB9AB5C1CA5A04"
+				type: "dimension"
+			}]
+			x: 1.5d
+			y: 6.36d
+		}
+		{
+			dependencies: ["232D3E9EB66C762E"]
+			id: "747B56511E0F9CF5"
+			shape: "gear"
+			tasks: [{
+				id: "3B7E936AF09E198B"
+				type: "custom"
+			}]
+			x: -2.0d
+			y: 6.36d
+		}
+		{
+			dependencies: ["232D3E9EB66C762E"]
+			id: "406D1D4394C9C61B"
+			shape: "gear"
+			tasks: [{
+				id: "3E00B25FB3CD7AE9"
+				type: "custom"
+			}]
+			x: -8.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"232D3E9EB66C762E"
+				"07E3E35C8D8603AF"
+			]
+			id: "1F8917AB417EA4A5"
+			tasks: [{
+				id: "496D85572AECDE5C"
+				type: "custom"
+			}]
 			x: 4.5d
-			y: 5.0d
+			y: 6.36d
+		}
+		{
+			dependencies: ["1F8917AB417EA4A5"]
+			id: "52B76020B207F31D"
+			tasks: [{
+				id: "72EF5CDF94E877A8"
+				type: "custom"
+			}]
+			x: -3.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["42484B3780A95EB1"]
+			id: "07E3E35C8D8603AF"
+			tasks: [{
+				id: "6E7B1580CCECA234"
+				type: "custom"
+			}]
+			x: 7.5d
+			y: 6.36d
+		}
+		{
+			dependencies: ["42484B3780A95EB1"]
+			id: "608F92F980A986D5"
+			tasks: [{
+				id: "38ADAD8D6C3CEC44"
+				type: "custom"
+			}]
+			x: 10.5d
+			y: 6.36d
+		}
+		{
+			dependencies: ["07E3E35C8D8603AF"]
+			id: "69F19636D5AC6A80"
+			shape: "hexagon"
+			tasks: [{
+				id: "754968E00761EBC1"
+				type: "custom"
+			}]
+			x: 1.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["608F92F980A986D5"]
+			id: "44C4D509C65E66A0"
+			tasks: [{
+				id: "1F33BE533F6A4D6B"
+				type: "custom"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["52B76020B207F31D"]
+			id: "254FABE6853C43ED"
+			tasks: [{
+				id: "25C035914CEEF382"
+				type: "custom"
+			}]
+			x: -5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["44C4D509C65E66A0"]
+			id: "501D328A03608C80"
+			tasks: [{
+				id: "0CCDC6B9FC4AD337"
+				type: "custom"
+			}]
+			x: 3.0d
+			y: 12.5d
+		}
+		{
+			dependencies: [
+				"254FABE6853C43ED"
+				"501D328A03608C80"
+			]
+			id: "5E544838D7137E05"
+			tasks: [{
+				id: "680517B96B0BBCD6"
+				type: "custom"
+			}]
+			x: -1.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["501D328A03608C80"]
+			id: "3FFB236ADFE739EF"
+			shape: "rsquare"
+			tasks: [{
+				id: "728FB3655247FAB0"
+				type: "custom"
+			}]
+			x: 7.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["5E544838D7137E05"]
+			id: "0A5F0AC9A3D86E94"
+			tasks: [{
+				id: "6379E9A63F288D37"
+				type: "custom"
+			}]
+			x: -1.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0A5F0AC9A3D86E94"]
+			id: "40C5F4EB44658226"
+			shape: "gear"
+			tasks: [{
+				id: "3FD42D956A2DB746"
+				type: "custom"
+			}]
+			x: -3.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["0A5F0AC9A3D86E94"]
+			id: "2D0A37155514D388"
+			tasks: [{
+				id: "4ACE5D2E2A82CE6B"
+				type: "custom"
+			}]
+			x: 1.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["2D0A37155514D388"]
+			id: "421440B8C1F26EA0"
+			shape: "rsquare"
+			tasks: [{
+				id: "3F3AED59945DABA7"
+				type: "custom"
+			}]
+			x: -1.0d
+			y: 21.0d
 		}
 	]
 	title: "第一章 青铜与蒸汽"

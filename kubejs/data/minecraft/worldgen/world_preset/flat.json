@@ -5,7 +5,7 @@
       "generator": {
         "type": "minecraft:flat",
         "settings": {
-          "biome": "minecraft:plains",
+          "biome": "kubejs:void",
           "features": false,
           "lakes": false,
           "layers": [
